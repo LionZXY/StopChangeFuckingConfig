@@ -1,0 +1,4 @@
+rootProject.name = 'StopChangeFuckingConfig'
+include 'core'
+include 'forge-1.16'
+
